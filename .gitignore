@@ -1,0 +1,6 @@
+models/
+*.safetensors
+*.ckpt
+*.pth
+*.bin
+venv312/
