@@ -14,6 +14,9 @@ A highly optimized, fully offline web interface for generating and editing image
 * **VRAM Optimized:** Implements `channels_last` memory formatting, VAE slicing, VAE tiling, and shared pipeline components to prevent out-of-memory crashes on consumer GPUs.
 
 ---
+## WARNING 
+works in Nvidia GPU only
+recommended GPU Vram 6GB or above
 
 ## 🚀 Installation & Setup
 
