@@ -1,7 +1,9 @@
-cd /d D:\proj
+open cmd and paste this
+
+""cd /d D:\proj
 
 py -3.12 -m venv venv312
 
 venv312\Scripts\activate
 
-python app6.py
+python app6.py""
